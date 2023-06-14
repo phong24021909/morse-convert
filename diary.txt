@@ -1,0 +1,46 @@
+.... .- .... ... / .- -.. -.-. / / ... .- 
+HA HA H
+.... .- .... ... / .- -.. -.-. / / ... .- 
+HA HA H
+.... .- .... ... / .- -.. -.-. / / ... .- 
+2021-12/5  22:32:36
+HA HA H
+2021-12/5  22:32:51
+.... .- .... ... / .- -.. -.-. / / ... .- 
+
+Number of words in input file: 4
+total number of characters: 9
+Word converted: 4
+Number of characters converted: 9
+Error word: 0
+Number of characters NOT converted: 0
+Time Complete: 2021-12/5  22:47:13
+ERROR FILE inputt.txt khong tim thay
+
+
+Time Complete: 2021-12/5  22:47:59
+.... .- .... ... / .- -.. -.-. / / ... .- 
+Time[second]: 2.1588455
+Number of words in input file: 4
+total number of characters: 9
+Word converted: 4
+Number of characters converted: 9
+Error word: 0
+Number of characters NOT converted: 0
+Time Complete: 2021-12/5  22:53:50
+.... .- .... ... / .- -.. -.-. / / ... .- / # # 
+ERROR AB 
+The number of characters in error : 1
+Time Complete: 2021-12/5  22:54:19
+
+ERROR XX......
+Open file README.txt to help......HA HA H
+Time[second]: 1.4726820
+Number of words in input file: 3
+total number of characters: 22
+Word converted: 3
+Number of characters converted: 22
+Error word: 0
+Number of characters NOT converted: 0
+Time Complete: 2021-12/5  23:1:32
+ERROR FILE inputt.txt khong tim thay
